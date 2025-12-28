@@ -9,6 +9,7 @@ Paste the following into notepad.
 rpcuser=your_username
 
 rpcpassword=your_password
+
 rpcbind=127.0.0.1
 rpcallowip=127.0.0.1
 listen=1
