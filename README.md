@@ -6,13 +6,15 @@ Press on the button "OK".
 
 Paste the following into notepad.
 
-rpcuser=rpc_aetheris
-rpcpassword=dR2oBQ3K1zYMZQtJFZeAerhWxaJ5Lqeq9J2
+rpcuser=your_username
+
+rpcpassword=your_password
 rpcbind=127.0.0.1
 rpcallowip=127.0.0.1
 listen=1
 server=1
 addnode=node3.walletbuilders.com
+addnode=mining-p2pool.go.ro
 
 Click on the menu item "File" -> "Save As...".
 
